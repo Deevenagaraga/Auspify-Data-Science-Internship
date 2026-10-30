@@ -132,7 +132,7 @@ Auspify_Data_Science_Internship/
 │   ├── top_10_countries.csv
 │   └── top_10_categories.csv
 │
-└── Task2_Screenshots/
+└── Task2_eda_Screenshots/
     └── Task 2 screenshots
 ```
 
