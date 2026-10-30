@@ -1,0 +1,50 @@
+
+NETFLIX DATASET - EXPLORATORY DATA ANALYSIS REPORT
+==================================================
+
+1. DATASET OVERVIEW
+
+Total Number of Titles: 8790
+Total Number of Columns: 10
+Total Movies: 6126
+Total TV Shows: 2664
+
+2. CONTENT DISTRIBUTION
+
+Movies: 6126 (69.69%)
+TV Shows: 2664 (30.31%)
+
+3. TOP COUNTRY
+
+Top Country: United States
+
+4. TOP CATEGORY
+
+Top Category: International Movies
+
+5. CONTENT RATINGS
+
+Most Common Rating: TV-MA
+
+6. MOVIE DURATION
+
+Average Movie Duration: 99.58 minutes
+
+7. DATA QUALITY
+
+Missing Values: 0
+Duplicate Records: 0
+
+8. CONCLUSION
+
+The Exploratory Data Analysis helped identify
+content distribution, popular countries, common
+categories, content ratings, release year trends,
+movie durations, and TV show seasons.
+
+Visualizations were created to understand the
+patterns and trends in the Netflix dataset.
+
+==================================================
+END OF REPORT
+==================================================
