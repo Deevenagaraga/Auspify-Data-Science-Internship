@@ -1,0 +1,11 @@
+NETFLIX CONTENT RECOMMENDATION SYSTEM
+==================================================
+
+Dataset Records: 8790
+Selected Title: Stranger Things
+Recommendations Generated: 10
+Category Matches: 10
+Category-based Precision: 1.00
+
+Evaluation Note:
+Precision is estimated using shared categories between the selected title and recommended titles. It is a proxy metric, not a measure of actual user satisfaction.
