@@ -160,5 +160,33 @@ The project outputs are organized and prepared for further analysis.
 
 * Task 1 – Data Cleaning and Preprocessing
 * Task 2 – Exploratory Data Analysis (EDA)
+## Task 3: Recommendation System Analysis
 
-**Intern:** Garaga Deevena
+### Objective
+Developed a content-based recommendation system using Netflix movies and TV shows dataset.
+
+### Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- TF-IDF Vectorization
+- Cosine Similarity
+- Matplotlib
+
+### Workflow
+1. Loaded the cleaned Netflix dataset.
+2. Extracted content features such as type, director, country, rating, and categories.
+3. Performed text preprocessing.
+4. Applied TF-IDF vectorization.
+5. Calculated cosine similarity between titles.
+6. Generated recommendations for selected titles.
+7. Evaluated recommendation results using category overlap.
+
+### Output Files
+- recommended_titles.csv
+- task3_evaluation_report.txt
+- recommendation_similarity_chart.png
+
+### Conclusion
+Successfully developed a basic content-based recommendation system to suggest similar Netflix titles based on their content features.
+**intern:** Garaga Deevena
