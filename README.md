@@ -189,4 +189,34 @@ Developed a content-based recommendation system using Netflix movies and TV show
 
 ### Conclusion
 Successfully developed a basic content-based recommendation system to suggest similar Netflix titles based on their content features.
+## Task 4: Trend Prediction Analysis
+
+### Objective
+Analyzed historical Netflix content release trends and predicted future content growth using Linear Regression.
+
+### Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Linear Regression
+
+### Workflow
+1. Prepared release-year data.
+2. Analyzed yearly Movies and TV Shows trends.
+3. Visualized historical content growth.
+4. Built Linear Regression models.
+5. Predicted content trends for the next five years.
+6. Evaluated models using MAE and R2 Score.
+
+### Output Files
+- yearly_content_trends.csv
+- trend_predictions.csv
+- task4_trend_prediction_report.txt
+- yearly_content_trend.png
+- future_content_forecast.png
+- content_type_comparison.png
+
+### Conclusion
+Successfully analyzed historical Netflix content trends and generated future content growth estimates using Machine Learning.
 **intern:** Garaga Deevena
