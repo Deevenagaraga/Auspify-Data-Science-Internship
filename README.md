@@ -219,4 +219,8 @@ Analyzed historical Netflix content release trends and predicted future content 
 
 ### Conclusion
 Successfully analyzed historical Netflix content trends and generated future content growth estimates using Machine Learning.
+## GitHub Repository
+
+Project Source Code:
+https://github.com/Deevenagaraga/Auspify-Data-Science-Internship
 **intern:** Garaga Deevena
